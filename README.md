@@ -4,4 +4,8 @@
 
 Para la realización de este HTML he usado una plantilla gratuita de la página: https://plantillashtmlgratis.com/categoria-plantillas/plantillas-html/page/115/
 
-
+<div>
+<p style = 'text-align:center;'>
+<img src="" alt="Plantilla" width="300px">
+</p>
+</div>

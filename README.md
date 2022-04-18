@@ -8,7 +8,21 @@ Para la realización de este HTML he usado una plantilla gratuita de la página:
 
 ## TAREA 3
 
--Inicio
+- Inicio:
+
+![Inicio](./screenshots/inicio.png)
+
+- Playlist:
+
+![Playlist](./screenshots/playlist.png)
+
+- Destacados:
+
+![Destacados](./screenshots/destacados.png)
+
+- Contacto:
+
+![Contacto](./screenshots/contactos.png)
 
 ## TAREA 4
 

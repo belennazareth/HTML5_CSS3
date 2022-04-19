@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Free CSS Templates - Free Template Dark Theme</title>
-<link rel="icon" type="image/x-icon" href="/images/contactosfav.png">
-<meta charset="utf-8"> 
+<link rel="icon" type="image/x-icon" href="/images/contactosfav.png"/>
+
 <meta name="description" content="Free CSS Templates features free templates from website template designers and developers throughout the net." />
 <meta name="keywords" content="Free CSS Templates, CSS Website Templates, Templates, Free Templates, CSS" />
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -24,8 +24,17 @@
   <h2>*.- Contacta con nosotros -.*</h2>
   <div id="TEXT">
     <form action="http://www2.gonzalonazareno.org/josedom/resultado.php" method="post">
-      <input type="email" name="email" placeholder="Introduce el email: "/>
-      <p><textarea type="text" name="comentarios" placeholder="Comentarios"></textarea></p>
+      
+      <ul>
+        <li>
+          <label for="email"> Email: </label>
+          <input type="email" name="correo"/>
+        </li>
+        <li>
+          <label for="coment"> Comentario: </label>
+          <textarea name="comentarios"></textarea>
+        </li>
+      </ul>
       <input type="submit" value="Enviar"/>
     </form>
   </div>

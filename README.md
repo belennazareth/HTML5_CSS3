@@ -54,3 +54,15 @@ Entramos a la URL y confirmamos que se encuentra nuestra página:
 
 ## TAREA 6
 
+Para validar la página usaremos [W3 Validator](https://validator.w3.org/):
+
+![W3](./screenshots/W3.png)
+
+
+Al validar la URL en el host nos da una serie de errores de código introducido por parte de la página del hosting:
+
+![Validación](./screenshots/validacion.png)
+
+Sin embargo si validamos el fichero fuera del host podemos comprobar que la validación es correcta:
+
+![Fichero](./screenshots/w3index.png)
